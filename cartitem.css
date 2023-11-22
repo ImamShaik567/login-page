@@ -1,0 +1,12 @@
+.main-cart-bg{
+    background-color: aqua;
+}
+.sub-cart-bg{
+    background-color: rgb(210, 231, 21);
+    border-radius: 25px;
+}
+.sub2-cartitem-bg{
+    background-color: white;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
